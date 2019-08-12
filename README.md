@@ -3,8 +3,12 @@ Swap web maps.
 
 Version 2.13
 
-1. MapManager.js
+Start with About widget and make the following modifications:
 
-2. Widget folder Theme
+1. Rename config and widget foldr to Theme. 
 
-3. Config file
+2. \jimu.js\MapManager.js
+
+3. Widget.js & Widhet.html into widget folder Theme
+
+4. Config file
