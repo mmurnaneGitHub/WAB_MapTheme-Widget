@@ -1,5 +1,5 @@
 # WAB_MapTheme-Widget
-Map Theme Widget for Staff DART Map (https://wsitd03/website/DART/StaffMap/) - swaps web maps.
+Map Theme Widget for Staff DART Map (https://wsitd03/website/DART/StaffMap/) - swaps web maps, including basemap and all associated layers.
 
 Version 2.13
 
