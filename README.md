@@ -3,7 +3,7 @@ Map Theme Widget for Staff DART Map (https://wsitd03/website/DART/StaffMap/) - s
 
 Version 2.13
 
-Start with About widget and make the following modifications:
+For future WAB upgrade versions start with About widget and make the following modifications:
 
 1. Rename config and widget folder to Theme. 
 
