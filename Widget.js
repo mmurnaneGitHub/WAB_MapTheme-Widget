@@ -66,9 +66,9 @@ define(['dojo/_base/declare',
       _runSetUp: function () {  //MJM
         var themeStore = new Memory({  //Theme choices with web map id.  Use initial web map id as Default
           data: [
-            { name: "Default", id: "979c6cc89af9449cbeb5342a439c6a76" },
+            //{ name: "Default", id: "6971a49654b7419f916343c202e61827" },
             { name: "General", id: "2ce3c7188bb8413498047941f177058e" },
-            { name: "Permitting", id: "ca96fdd89a4d4a19a2a463fefaec7a6b" },
+            { name: "Permitting", id: "6971a49654b7419f916343c202e61827" },
             { name: "Pierce Transit System", id: "9203202a668144118758c210e3907002" },
             { name: "Storm & Sewer", id: "4bfbb042933547149267110f12b55a09" },
             { name: "Tacoma Equity Index", id: "4b7b855cff224df89c3f6633f1faa859" }
