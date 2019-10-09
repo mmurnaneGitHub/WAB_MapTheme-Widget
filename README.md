@@ -9,6 +9,6 @@ For future WAB upgrade versions start with About widget and make the following m
 
 2. Copy MapManager.js to \jimu.js\MapManager.js
 
-3. Copy Widget.js, Widget.html, & manifest.json into widget folder Theme
+3. Copy Widget.js (Widget_org unminified), Widget.html, & manifest.json into widget folder Theme
 
 4. Copy config_widgets_Theme_Widget_20.json to \config\config_widgets_Theme_Widget_20.json.
