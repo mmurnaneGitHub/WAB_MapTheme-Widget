@@ -67,7 +67,7 @@ define(['dojo/_base/declare',
         var themeStore = new Memory({  //Theme choices with web map id.  Use initial web map id as Default
           data: [
             //{ name: "Default", id: "6971a49654b7419f916343c202e61827" },
-            { name: "General", id: "2ce3c7188bb8413498047941f177058e" },
+            { name: "General", id: "6573e3dbba474f08b50fcb7021d0007b" },
             { name: "One Tacoma: Comp Plan", id: "7865507a1def49638bd635defece9378" },
             { name: "Permitting", id: "6971a49654b7419f916343c202e61827" },
             { name: "Pierce Transit System", id: "9203202a668144118758c210e3907002" },
