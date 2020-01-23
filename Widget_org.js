@@ -72,7 +72,8 @@ define(['dojo/_base/declare',
             { name: "Permitting", id: "6971a49654b7419f916343c202e61827" },
             { name: "Pierce Transit System", id: "9203202a668144118758c210e3907002" },
             { name: "Storm & Sewer", id: "4bfbb042933547149267110f12b55a09" },
-            { name: "Tacoma Equity Index", id: "4b7b855cff224df89c3f6633f1faa859" }
+            { name: "Tacoma Equity Index", id: "4b7b855cff224df89c3f6633f1faa859" },
+            { name: "Tideflats Interim Regulations", id: "a0e087e7b7844e27a4db793ac8c32ce5" }
           ]
         });
         
